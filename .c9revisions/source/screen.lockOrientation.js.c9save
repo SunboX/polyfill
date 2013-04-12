@@ -1,0 +1,2 @@
+{"ts":1365785558331,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1365785601644,"patch":[[{"diffs":[[1,"// https://developer.mozilla.org/en-US/docs/DOM/window.screen.lockOrientation\nscreen['lockOrientation'] = screen['mozLockOrientation'] || screen['lockOrientation'];"]],"start1":0,"start2":0,"length1":0,"length2":164}]],"length":164,"saved":false}
