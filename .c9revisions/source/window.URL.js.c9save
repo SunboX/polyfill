@@ -1,0 +1,2 @@
+{"ts":1365785367350,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1365785450801,"patch":[[{"diffs":[[1,"// https://developer.mozilla.org/en-US/docs/DOM/window.URL\nwindow.URL = window.webkitURL || window.URL; // Vendor prefixed in Chrome."]],"start1":0,"start2":0,"length1":0,"length2":133}]],"length":133,"saved":false}
